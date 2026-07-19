@@ -18,11 +18,7 @@ Delivery datasets often contain unreliable self-reported fields such as distance
 
 ## Repository contents
 
-- `notebooks/` — cleaning, imputation, and graph-validation notebooks
-- `data/` — sample data only (see note below)
-
-> Note: full dataset not redistributed; a small sample is included to illustrate
-> structure and validation logic.
+- `notebooks/` — cleaning, imputation, and validation notebooks
 
 ## My contribution
 
